@@ -89,6 +89,7 @@ main .desk {
 }
 main .content p {
   max-width: 400px;
+  padding: 2px;
 }
 main .client {
   display: flex;
