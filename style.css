@@ -88,7 +88,7 @@ main .desk {
   width: 35%;
 }
 main .content p {
-  max-width: 400px;
+  max-width: 200px;
   padding: 2px;
 }
 main .client {
