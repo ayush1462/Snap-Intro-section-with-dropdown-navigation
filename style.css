@@ -83,6 +83,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin: 100px 100px;
 }
 main .content h1 {
   color: var(--color-black);
